@@ -41,25 +41,12 @@ I am a passionate **Frontend Developer** and **Product Builder** dedicated to wr
 
 ### ✨ Featured Projects
 
-#### 📈 [Tally](https://github.com/omkarsunilshivarkar/Tally)
-*An intelligent, full-stack personal finance assistant.*
-*   **Key Features:** Glassmorphic dark-mode dashboard, category budgets, Vision-powered receipt OCR scanning, and a context-aware AI chatbot financial advisor.
-*   **Stack:** React, Node.js, Express, MongoDB, OpenAI / Gemini API, Tailwind CSS.
-
-#### ✈️ [WanderHer](https://github.com/omkarsunilshivarkar/WanderHer)
-*An elegant, safety-focused travel hub designed for women and solo travelers.*
-*   **Key Features:** AI-powered travel itinerary planner, community-shared trip plans, interactive checklist management, and curated safety advice.
-*   **Stack:** JavaScript, React, Tailwind CSS, Integration APIs.
-
-#### 🌐 [TechHorizon](https://github.com/omkarsunilshivarkar/TechHorizon)
-*A premium, minimalist dark-themed engineering blog.*
-*   **Key Features:** Responsive category filters, space-efficient cards grid layout, and automated real-time read time metrics.
-*   **Stack:** React, Node.js, Express, CSS Modules.
-
-#### 🍔 [UrbanBites](https://github.com/omkarsunilshivarkar/UrbanBites)
-*A modern, responsive food ordering application.*
-*   **Key Features:** Live search filtering, persistent shopping cart experience, and validation-backed order checkout.
-*   **Stack:** JavaScript, React, CSS.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **📈 Tally** <br> [Repository ➔](https://github.com/omkarsunilshivarkar/Tally) | Full-stack personal finance assistant with a glassmorphic dashboard, budgeting tools, OCR receipt scanning, and a context-aware AI chatbot advisor. | `React` `Node.js` `Express` `MongoDB` `OpenAI` `Tailwind CSS` |
+| **✈️ WanderHer** <br> [Repository ➔](https://github.com/omkarsunilshivarkar/WanderHer) | Safety-focused travel hub designed for women and solo travelers with an AI travel planner, shared trip itineraries, and checklists. | `JavaScript` `React` `Tailwind CSS` `REST APIs` |
+| **🌐 TechHorizon** <br> [Repository ➔](https://github.com/omkarsunilshivarkar/TechHorizon) | Premium, minimalist dark-themed engineering blog with category filters, space-efficient cards grid, and automated read metrics. | `React` `Node.js` `Express` `CSS Modules` |
+| **🍔 UrbanBites** <br> [Repository ➔](https://github.com/omkarsunilshivarkar/UrbanBites) | Responsive food ordering application featuring live search, a persistent shopping cart, and validation-backed checkout. | `JavaScript` `React` `CSS` |
 
 ---
 
