@@ -1,7 +1,7 @@
 # Hi there, I'm Omkar Shivarkar! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;Product+Builder;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Product+Builder;AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
