@@ -1,12 +1,11 @@
 # Hi there, I'm Omkar Shivarkar! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Product+Builder;AI+Enthusiast" alt="Typing SVG" />
-</p>
+### 🚀 Frontend Developer & Product Builder
+*Building products that solve real-world problems.*
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
 I am a passionate **Frontend Developer** and **Product Builder** dedicated to writing clean, high-performance, and accessible code. Guided by the philosophy **"Building products that solve real problems,"** I focus on creating intuitive user experiences that blend modern web design with dynamic interactions.
 
