@@ -43,10 +43,10 @@ I am a passionate **Frontend Developer** and **Product Builder** dedicated to wr
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **📈 Tally** <br> [Repository ➔](https://github.com/omkarsunilshivarkar/Tally) <br> [Live Demo ➔](https://tally-finance.vercel.app) | Full-stack personal finance assistant with a glassmorphic dashboard, budgeting tools, OCR receipt scanning, and a context-aware AI chatbot advisor. | `React` `Node.js` `Express` `MongoDB` `OpenAI` `Tailwind CSS` |
-| **✈️ WanderHer** <br> [Repository ➔](https://github.com/omkarsunilshivarkar/WanderHer) <br> [Live Demo ➔](https://wanderher.vercel.app) | Safety-focused travel hub designed for women and solo travelers with an AI travel planner, shared trip itineraries, and checklists. | `JavaScript` `React` `Tailwind CSS` `REST APIs` |
-| **🌐 TechHorizon** <br> [Repository ➔](https://github.com/omkarsunilshivarkar/TechHorizon) <br> [Live Demo ➔](https://techhorizon.vercel.app) | Premium, minimalist dark-themed engineering blog with category filters, space-efficient cards grid, and automated read metrics. | `React` `Node.js` `Express` `CSS Modules` |
-| **🍔 UrbanBites** <br> [Repository ➔](https://github.com/omkarsunilshivarkar/UrbanBites) <br> [Live Demo ➔](https://urbanbites.vercel.app) | Responsive food ordering application featuring live search, a persistent shopping cart, and validation-backed checkout. | `JavaScript` `React` `CSS` |
+| **📈 Tally** <br> [Repository ➔](https://github.com/omkarsunilshivarkar/Tally) <br> [Live Demo ➔](https://tally-iota-indol.vercel.app/) | Full-stack personal finance assistant with a glassmorphic dashboard, budgeting tools, OCR receipt scanning, and a context-aware AI chatbot advisor. | `React` `Node.js` `Express` `MongoDB` `OpenAI` `Tailwind CSS` |
+| **✈️ WanderHer** <br> [Repository ➔](https://github.com/omkarsunilshivarkar/WanderHer) <br> [Live Demo ➔](https://wander-her-eight.vercel.app/) | Safety-focused travel hub designed for women and solo travelers with an AI travel planner, shared trip itineraries, and checklists. | `JavaScript` `React` `Tailwind CSS` `REST APIs` |
+| **🌐 TechHorizon** <br> [Repository ➔](https://github.com/omkarsunilshivarkar/TechHorizon) <br> [Live Demo ➔](https://tech-horizon-liart.vercel.app/blogs) | Premium, minimalist dark-themed engineering blog with category filters, space-efficient cards grid, and automated read metrics. | `React` `Node.js` `Express` `CSS Modules` |
+| **🍔 UrbanBites** <br> [Repository ➔](https://github.com/omkarsunilshivarkar/UrbanBites) <br> [Live Demo ➔](https://urban-bites-food-delivery-website.vercel.app/) | Responsive food ordering application featuring live search, a persistent shopping cart, and validation-backed checkout. | `JavaScript` `React` `CSS` |
 
 ---
 
