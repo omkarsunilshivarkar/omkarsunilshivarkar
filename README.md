@@ -3,6 +3,18 @@
 ### 🚀 Frontend Developer & Product Builder
 *Building products that solve real-world problems.*
 
+<p align="left">
+  <a href="https://linkedin.com/in/omkar-shivarkar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:omkarsunilshivarkar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://github.com/omkarsunilshivarkar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -58,18 +70,3 @@ I am a passionate **Frontend Developer** and **Product Builder** dedicated to wr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarsunilshivarkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="190" />
 </p>
 
----
-
-### 🤝 Let's Connect!
-
-<p align="left">
-  <a href="https://linkedin.com/in/omkar-shivarkar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:omkarsunilshivarkar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-  </a>
-  <a href="https://github.com/omkarsunilshivarkar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-</p>
